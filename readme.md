@@ -1,0 +1,1 @@
+&emsp;&emsp;本库记录对[《Ray Tracing in One Weekend》](https://raytracing.github.io/books/RayTracingInOneWeekend.html)、[《Ray Tracing: The Next Week》](https://raytracing.github.io/books/RayTracingTheNextWeek.html) 以及 [《Ray Tracing: The Rest of Your Life》](https://raytracing.github.io/books/RayTracingTheRestOfYourLife.html) 三本书学习过程的记录，包含笔记和代码。
